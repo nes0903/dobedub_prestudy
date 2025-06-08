@@ -1,2 +1,2 @@
 # dobedub_prestudy
-study
+사전학습
